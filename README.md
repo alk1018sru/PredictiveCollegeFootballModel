@@ -1,5 +1,6 @@
 # PredictiveCollegeFootballModel
-1. Before you start, you must download the football data labeled cfb20.csv and the Football.R file provided 
+Make sure that you have R downloaded and its libraries before proceeding
+2.  Before you start, you must download the football data labeled cfb20.csv and the Football.R file provided 
 
 2. Once the data is downloaded, you can open R on your computer and before continuing you will have to change your working directory to where your data is located on your computer. To do this, you will need to find “change working directory” which is under “misc.” on a mac and “change directory” under “file” for windows users. 
 
